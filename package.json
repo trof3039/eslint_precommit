@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx eslint index.ts --fix",
+    "test": "zsh commit.sh",
     "lint": "eslint . --ext .ts",
     "prepare": "husky install"
   },
