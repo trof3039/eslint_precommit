@@ -9,3 +9,5 @@ const arr = [];
 arr.push(c);
 
 console.log(a, '+', b, '=', a + b);
+
+export {}
